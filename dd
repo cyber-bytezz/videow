@@ -1,0 +1,13 @@
+Hi Santhosh,
+
+I built an AI Sales Presenter POC on my personal laptop, because the Tavus site and its API calls are blocked on the Hexware network. I've attached the demo video.
+
+It takes a PowerPoint, writes a presentation script from it, and an AI avatar presents it. If the customer asks a question, it jumps to the right slide, answers from the deck, and carries on.  At the end it writes a summary and a follow-up email.
+
+The demo ran on the free version of Tavus, so sessions are limited to about 5 minutes.
+
+To run it from my office laptop, could you help me raise a request with IT to allow tavusapi.com and *.daily.co (the avatar's video and audio)?
+
+Could you review the video when you get a chance? I'm happy to walk you through it.
+
+Thank you!
